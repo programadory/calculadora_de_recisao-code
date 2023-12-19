@@ -1,0 +1,5 @@
+#Executable files
+*.jar
+*.class
+build/libs/*.jar
+build/class/kotlin/main/*.class
