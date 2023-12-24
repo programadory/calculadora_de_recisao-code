@@ -85,7 +85,7 @@ RESCISAO INDIRETA - Saldo de Salario, 13th Salario proporcional,
 
 #FORMULAS E CALCULOS 
 
-Saldo do Salario  = (Salario/30) x dias trabalhados
+Saldo do Salario  = (Salario/30) x dias trabalhados no mes
 
 *Ferias vencidas & proporcionais
 
